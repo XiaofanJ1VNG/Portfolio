@@ -521,12 +521,12 @@
       "Virtual exhibition"
     ],
     "url": "https://newart.city/show/ghosts-in-the-feedback-loop",
-    "image": "images/ghost/cover.webp",
+    "image": "images/ghost/cover.gif",
     "imageAlt": "Project preview photograph",
     "photoCredit": "September 8, 2025 · New Art City (virtual)",
     "gallery": [
       {
-        "image": "images/ghost/gallery/cover.webp",
+        "image": "images/ghost/cover.gif",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       }
@@ -673,7 +673,7 @@
       },
       
       {
-        "video": "images/mirage-nyc/gallery/webp/011.webp",
+        "video": "images/mirage-nyc/gallery/011.mp4",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
@@ -1096,7 +1096,7 @@
         "photoCredit": ""
       },
       {
-        "video": "images/jukebox/gallery/webp/019.webp",
+        "video": "images/jukebox/gallery/019.mp4",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
