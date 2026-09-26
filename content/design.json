@@ -6,7 +6,7 @@
     "tag": "Brand",
     "description": "Founded UAAD as an artist-led platform for experimental work across art, design, and emerging technologies. Its projects span exhibitions, publications, performances, and public programs.",
     "url": "https://uaad.art",
-    "image": "images/uaad/cover.png",
+    "image": "images/uaad/cover.jpg",
     "slug": "underground-art-and-design",
     "photoCredit": "",
     "imageAlt": "Project preview photograph",
@@ -15,7 +15,7 @@
     "introduction": "An interdisciplinary platform founded by Amy Xiaofan Jiang to explore experimental art, technology, and social transformation. Its exhibitions, performances, publications, and public programs create space for shared worldbuilding.",
     "gallery": [
       {
-        "image": "images/uaad/cover.png",
+        "image": "images/uaad/cover.jpg",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       }
@@ -32,7 +32,7 @@
     "tag": "Product",
     "description": "Designed a UAAD merch product for the NEW INC Demo Festival: a 3D-printed folding fan that embodies connection and collectivity through gesture and proximity.",
     "url": "https://newinc.metalabel.com/unfold?retryCount=1&variantId=1",
-    "image": "images/hold/cover.png",
+    "image": "images/hold/cover.jpg",
     "slug": "hold-unfold",
     "photoCredit": "June 2026 · NEW INC Demo Festival",
     "imageAlt": "Project preview photograph",
@@ -41,27 +41,27 @@
     "introduction": "Hold/Unfold is a portable gesture of connection and collectivity made for embodied spaces: the underground dance floor, the heat of a summer gathering, anywhere gesture and proximity shape experience. Each blade an abstract body: folded, a single figure; opened, a chain of interlinked forms in embrace, circling a shared center.",
     "gallery": [
       {
-        "image": "images/hold/gallery/01.png",
+        "image": "images/hold/gallery/webp/01.webp",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
       {
-        "image": "images/hold/gallery/02.gif",
+        "image": "images/hold/gallery/webp/02.webp",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
       {
-        "image": "images/hold/gallery/03.jpg",
+        "image": "images/hold/gallery/webp/03.webp",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
       {
-        "image": "images/hold/gallery/04.jpg",
+        "image": "images/hold/gallery/webp/04.webp",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
       {
-        "image": "images/hold/gallery/05.gif",
+        "image": "images/hold/gallery/webp/05.webp",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       }
