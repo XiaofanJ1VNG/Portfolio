@@ -1,0 +1,450 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#ffdde3">
+<meta name="description" content="Amy Xiaofan Jiang, designer, artist, curator, and event producer. Selected work across art, design, and emerging technologies.">
+<title>Amy Xiaofan Jiang — Portfolio</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%231d1d1b'/%3E%3Ctext x='32' y='44' fill='%23ecece8' text-anchor='middle' font-family='Arial' font-size='34'%3EA%3C/text%3E%3C/svg%3E">
+<style>
+:root{font-family:Arial,Helvetica,sans-serif;color:#1d1d1b;background:#e8e8e4;font-size:16px}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0}a{color:inherit;text-decoration:none}button{font:inherit;color:inherit}a:hover{text-decoration:underline;text-underline-offset:3px}button:focus-visible,a:focus-visible,summary:focus-visible{outline:2px solid #1d1d1b;outline-offset:3px}::selection{background:#d1fb50;color:#111}
+.layout{display:grid;grid-template-columns:300px minmax(0,1fr);min-height:100vh;max-width:1850px;margin:auto}.sidebar{position:sticky;top:0;height:100vh;overflow-y:auto;border-right:1px solid #aaa;display:flex;flex-direction:column;padding:25px 20px 24px;background:#e8e8e4;z-index:4}.brand{font-size:1.6rem;line-height:1.05;letter-spacing:-.045em;font-weight:500;display:inline-block}.current{font-size:.86rem;line-height:1.45;margin:26px 0 42px}.current-label{display:block;text-transform:uppercase;letter-spacing:.04em;font-size:.76rem;color:#666;margin-bottom:9px}.current a{text-decoration:underline;text-underline-offset:2px}.nav{display:flex;flex-direction:column;gap:5px}.nav-group{margin-bottom:10px}.nav-main,.nav-sub,.nav-plain{border:0;background:transparent;cursor:pointer;text-align:left;width:100%;display:block;padding:7px 8px;border-radius:3px}.nav-main{font-size:1rem;font-weight:500;display:flex;justify-content:space-between;align-items:baseline}.nav-main.active,.nav-sub.active,.nav-plain.active{background:#d9ded0}.nav-main:hover,.nav-sub:hover,.nav-plain:hover{background:#dfe2d9}.nav-main .n{font-size:.76rem;color:#666}.nav-sublist{display:none;border-left:1px solid #aaa;margin:3px 0 4px 13px;padding-left:13px}.nav-group.expanded .nav-sublist{display:block}.nav-main,.nav-plain{margin-left:-8px;width:calc(100% + 8px)}.nav-sub{font-size:.86rem;padding:5px 8px;color:#4e4e4c}.nav-sub.active{color:#1d1d1b}.nav-plain{font-size:1rem;margin-top:3px}.nav-separator{border-top:1px solid #aaa;margin:19px 0 12px}.sidebar-bottom{margin-top:auto;padding-top:35px;display:flex;flex-direction:column;align-items:flex-start;gap:8px;font-size:.83rem}.sidebar-bottom .email{overflow-wrap:anywhere}.menu-toggle{display:none}
+.content{padding:54px clamp(28px,5.5vw,100px) 90px;min-width:0}.eyebrow{text-transform:uppercase;letter-spacing:.07em;font-size:.78rem;color:#666;margin:0 0 34px}.page-title{font-size:clamp(4.2rem,8.2vw,9rem);font-weight:500;letter-spacing:-.085em;line-height:.9;margin:0 0 45px}.home .page-title{max-width:850px}.home .roles{font-size:clamp(1.25rem,2.3vw,2rem);line-height:1.25;letter-spacing:-.04em;margin:0 0 100px}.home .roles span{display:block}.section-title{font-size:.82rem;text-transform:uppercase;font-weight:400;letter-spacing:.04em;border-top:1px solid #1d1d1b;margin:0;padding-top:14px}.bio{max-width:850px;margin:30px 0 90px 22%;font-size:clamp(1.08rem,1.5vw,1.36rem);line-height:1.48;letter-spacing:-.016em}.bio p{margin:0 0 1.25em}.blocks{display:grid;grid-template-columns:1fr 1fr;gap:42px}.blocks .section-head{font-size:.82rem;text-transform:uppercase;border-top:1px solid;padding-top:14px;margin-bottom:35px}.blocks h2{font-size:inherit;font-weight:400;margin:0}.now-list{border-top:1px solid #aaa;margin-top:34px}.now-list .music-row{grid-template-columns:130px minmax(0,1fr) auto}.now-list .music-row strong{font-size:clamp(1.15rem,1.8vw,1.45rem)}.now-item{display:flex;justify-content:space-between;gap:20px;align-items:baseline;border-bottom:1px solid #aaa;padding:18px 0;font-size:clamp(1.2rem,2vw,1.8rem);letter-spacing:-.035em}.now-item span:last-child{font-size:.82rem;color:#666;letter-spacing:0;text-transform:uppercase;text-align:right}.now-section{margin-top:10px}.simple-list{border-top:1px solid #aaa}.line{display:flex;justify-content:space-between;gap:15px;align-items:baseline;padding:13px 0;border-bottom:1px solid #aaa;font-size:.89rem}.line .end{text-align:right;color:#555}
+.work-head{display:flex;align-items:baseline;justify-content:space-between;gap:25px;margin-bottom:20px}.work-head .page-title{margin-bottom:15px;font-size:clamp(2.8rem,5.5vw,6rem);letter-spacing:-.075em}.count{font-size:.83rem;color:#666;text-transform:uppercase}.work-subtitle{font-size:clamp(1rem,1.5vw,1.45rem);letter-spacing:-.025em;vertical-align:baseline;margin-left:.45em;color:#666;white-space:nowrap}.filter-strip{display:flex;gap:18px;align-items:center;margin:0 0 20px;font-size:.86rem;min-height:30px}.show-all{border:1px solid #1d1d1b;background:transparent;border-radius:100px;padding:6px 13px;cursor:pointer}.show-all:hover{background:#1d1d1b;color:#e8e8e4}.work-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(240px,32%);gap:42px;align-items:start}.project-list{border-top:1px solid #1d1d1b}.project{border-bottom:1px solid #aaa;display:grid;grid-template-columns:72px minmax(0,1fr) auto;gap:18px;padding:22px 0 24px;align-items:start}.project .year,.project .tag{font-size:.78rem;line-height:1.3;color:#666;padding-top:7px}.project .tag{text-align:right}.project-title{display:inline-block;font-size:clamp(1.35rem,2.35vw,2.45rem);letter-spacing:-.05em;line-height:1.04}.project-title:hover,.project-title:focus-visible{color:#555e2a;text-decoration:none}.project-summary{max-width:650px;margin:12px 0 0;color:#666;font-size:.88rem;line-height:1.4;letter-spacing:0}.preview{position:sticky;top:30px;margin:0;display:none}.preview.visible{display:block}.preview-link{display:block}.preview img{width:100%;height:min(58vh,560px);object-fit:cover;display:block}.preview figcaption,.detail-figure figcaption{font-size:.74rem;color:#666;margin-top:10px;line-height:1.3}.detail-source{display:inline-block;border:1px solid #1d1d1b;border-radius:100px;padding:10px 18px;font-size:.86rem}.detail-source:hover{background:#1d1d1b;color:#e8e8e4;text-decoration:none}.detail-back{font-size:.86rem;text-decoration:underline;text-underline-offset:3px}.detail .page-title{font-size:clamp(3.4rem,7vw,7rem);max-width:1100px;margin:36px 0 20px}.detail-meta{display:flex;gap:26px;text-transform:uppercase;font-size:.82rem;color:#666;margin-bottom:50px}.detail-figure{margin:0;max-width:850px}.detail-figure img{display:block;width:100%;height:auto;max-height:720px;object-fit:cover}.detail-description{max-width:760px;font-size:clamp(1.1rem,1.7vw,1.5rem);line-height:1.45;margin:42px 0 0}.empty{font-size:1rem;padding:25px 0;border-top:1px solid #1d1d1b}.writing .page-title{font-size:clamp(3rem,6.5vw,7rem)}.writing-list{max-width:1100px}.publication-credit{font-size:.76rem;color:#777;margin:9px 0 0;line-height:1.4}.placeholder .page-title{margin-top:40px}.cv .page-title{margin-bottom:40px}.cv-intro{max-width:860px;font-size:clamp(1.15rem,1.7vw,1.55rem);line-height:1.45;margin:0 0 80px}.cv-section{margin:0 0 75px}.cv-section h2{font-weight:400;font-size:.81rem;text-transform:uppercase;letter-spacing:.04em;border-top:1px solid #1d1d1b;padding-top:14px;margin:0 0 20px}.cv-item{display:grid;grid-template-columns:minmax(115px,18%) minmax(0,1fr) minmax(115px,21%);gap:25px;border-bottom:1px solid #aaa;padding:17px 0}.cv-date,.cv-place{font-size:.82rem;color:#666;line-height:1.4}.cv-place{text-align:right}.cv-item h3{font-size:1.16rem;font-weight:400;line-height:1.25;margin:0 0 6px}.cv-item p{font-size:.84rem;line-height:1.4;color:#555;margin:0}.detail-fields{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;border-top:1px solid #1d1d1b;padding:18px 0 26px;margin:35px 0 65px}.detail-field dt{font-size:.75rem;color:#666;text-transform:uppercase;letter-spacing:.06em;margin-bottom:13px}.detail-field dd{margin:0;font-size:1.05rem;line-height:1.4}.detail-section{margin:75px 0}.detail-section h2,.music-group h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;font-weight:400;border-top:1px solid #1d1d1b;padding-top:13px;margin:0 0 25px}.detail-intro{max-width:850px;font-size:clamp(1.25rem,2vw,1.9rem);line-height:1.36;letter-spacing:-.025em;margin:0}.participants-list{max-width:970px}.participants-group{display:grid;grid-template-columns:180px 1fr;gap:20px;border-bottom:1px solid #aaa;padding:15px 0}.participants-group:first-child{border-top:1px solid #aaa}.participants-group h3{margin:0;font-weight:400;font-size:.82rem;color:#666}.participants-group p{margin:0;line-height:1.5;font-size:.98rem}.program-list{list-style:none;margin:0;padding:0;max-width:900px;border-top:1px solid #aaa}.program-list li{border-bottom:1px solid #aaa;padding:16px 0;font-size:1rem}.gallery-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.gallery-grid figure{margin:0}.gallery-grid img{display:block;width:100%;height:auto;max-height:680px;object-fit:cover}.gallery-grid figcaption{font-size:.74rem;color:#666;margin-top:9px}.music-link{display:inline-block;border:1px solid #1d1d1b;border-radius:100px;padding:10px 17px;font-size:.86rem;margin:-45px 0 75px}.music-link:hover{background:#1d1d1b;color:#e8e8e4;text-decoration:none}.music-row a:hover{color:#555e2a;text-decoration:none}.music-bio{max-width:950px;font-size:clamp(1.25rem,2vw,1.9rem);line-height:1.4;letter-spacing:-.025em;margin:15px 0 80px}.music-group{margin-bottom:70px}.music-list{border-top:1px solid #aaa}.music-row{display:grid;grid-template-columns:130px minmax(0,1fr) auto;gap:25px;border-bottom:1px solid #aaa;padding:18px 0;align-items:baseline}.music-row .muted{color:#666;font-size:.85rem}.music-row strong{font-weight:400;font-size:1.2rem}.music-row span:last-child{text-align:right}
+/* Red navigation, pink content, and red type. */
+:root{background:#ffdde3;color:#de0c00}::selection{background:#a9ffab;color:#de0c00}button:focus-visible,a:focus-visible,summary:focus-visible{outline-color:#de0c00}
+.sidebar{background:#de0c00;color:#fff4f5;border:0}.sidebar .brand{color:#fff4f5}.current-label,.nav-main .n,.sidebar .nav-sub,.sidebar .sidebar-bottom{color:#ffc2d2}.sidebar .nav-sub.active{color:#de0c00}.nav-main.active,.nav-sub.active,.nav-plain.active{background:#a9ffa0;color:#de0c00}.nav-main.active .n{color:#de0c00}.nav-main:hover,.nav-sub:hover,.nav-plain:hover{background:#a9ffa0;color:#de0c00}.nav-main:hover .n{color:#de0c00}.nav-sublist,.nav-separator{border-color:#ffc2d2}.sidebar-bottom a:hover,.current a:hover{color:#a9ffa0}
+.content,.content button,.content a,.content .eyebrow,.content .count,.content .work-subtitle,.content .project .year,.content .project .tag,.content .project-summary,.content figcaption,.content .publication-credit,.content .cv-date,.content .cv-place,.content .cv-item p,.content .detail-field dt,.content .participants-group h3,.content .music-row .muted,.content .now-item span:last-child,.content .line .end,.content .detail-meta,.content .muted{color:#de0c00}
+.section-title,.blocks .section-head,.project-list,.detail-fields,.detail-section h2,.music-group h2,.cv-section h2,.empty{border-color:#de0c00}.now-list,.simple-list,.project,.cv-item,.participants-group,.program-list,.program-list li,.music-list,.music-row,.line{border-color:#e6909b}.show-all,.detail-source,.music-link{border-color:#de0c00}
+.content .project-title:hover,.content .project-title:focus-visible,.content .music-row a:hover,.content .now-list a:hover,.content .detail-back:hover{background:#a9ffa0;color:#de0c00;text-decoration:none}.content .show-all:hover,.content .detail-source:hover,.content .music-link:hover{background:#a9ffa0;color:#de0c00;border-color:#de0c00}
+@media(max-width:760px){.sidebar{border-bottom:0}.menu-toggle{border-color:#ffc2d2;color:#ffc2d2}}
+
+/* Slowly drifting red haze and fine paper grain in the content panel. */
+.content{position:relative;isolation:isolate;background:linear-gradient(135deg,#fffaf9 0%,#ffe1e6 58%,#fff9f8 100%)}
+.content::before{content:"";position:fixed;z-index:-1;top:50%;left:50%;width:85vw;height:100vh;pointer-events:none;background:radial-gradient(ellipse at 48% 48%,rgba(222,12,13,.35) 0%,rgba(239,78,91,.2) 29%,rgba(255,196,201,.09) 54%,transparent 72%);filter:blur(78px);transform:translate3d(calc(-50% + var(--blob-x,0px)),calc(-50% + var(--blob-y,0px)),0);will-change:transform}
+.content::after{content:"";position:absolute;z-index:3;inset:0;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22220%22%20height%3D%22220%22%20viewBox%3D%220%200%20220%20220%22%3E%3Cfilter%20id%3D%22n%22%3E%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.72%22%20numOctaves%3D%223%22%20stitchTiles%3D%22stitch%22%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20filter%3D%22url%28%23n%29%22%20opacity%3D%220.55%22%2F%3E%3C%2Fsvg%3E");background-size:220px 220px;opacity:.115;mix-blend-mode:multiply}
+/* Soft hover and a 400ms vertical reveal for accordion navigation. */
+.nav-group .nav-sublist{display:block;max-height:0;opacity:0;overflow:hidden;visibility:hidden;pointer-events:none;transform:translateY(-12px);margin-top:0;margin-bottom:0;transition:max-height .4s cubic-bezier(.22,1,.36,1),opacity .32s ease,transform .4s cubic-bezier(.22,1,.36,1),visibility 0s linear .4s,margin .4s ease}
+.nav-group.expanded .nav-sublist{max-height:210px;opacity:1;visibility:visible;pointer-events:auto;transform:translateY(0);margin-top:3px;margin-bottom:4px;transition:max-height .4s cubic-bezier(.22,1,.36,1),opacity .34s ease .04s,transform .4s cubic-bezier(.22,1,.36,1),visibility 0s,margin .4s ease}
+.nav-main,.nav-plain,.nav-sub{position:relative;isolation:isolate;transition:background-color .4s ease,color .4s ease}
+.nav-main:not(.active),.nav-plain:not(.active),.nav-sub:not(.active){background:transparent}
+.nav-main::before,.nav-plain::before,.nav-sub::before{content:"";position:absolute;inset:0;z-index:-1;border-radius:inherit;background:#a9ffa0;filter:blur(12px);opacity:0;transform:scale(.94);transition:opacity .4s ease,filter .4s ease,transform .4s ease;pointer-events:none}
+.nav-main:hover::before,.nav-plain:hover::before,.nav-sub:hover::before{opacity:1;filter:blur(0);transform:scale(1)}
+.sidebar .nav-main:hover:not(.active),.sidebar .nav-plain:hover:not(.active),.sidebar .nav-sub:hover:not(.active){background:transparent}
+.motion-ready .project,.motion-ready .music-row,.motion-ready .cv-item,.motion-ready .program-list li,.motion-ready .participants-group,.motion-ready .section-title,.motion-ready .detail-fields,.motion-ready .detail-section,.motion-ready .roles span{opacity:0;transform:translateY(22px);filter:blur(5px);transition:opacity .65s ease-out,transform .7s cubic-bezier(.2,.7,.2,1),filter .65s ease-out;transition-delay:var(--reveal-delay,0ms)}
+.motion-ready .is-visible{opacity:1;transform:translateY(0);filter:blur(0)}
+.preview.visible{animation:preview-arrive .52s cubic-bezier(.2,.7,.2,1) both}.preview-image-arrive{animation:image-arrive .5s ease-out both}
+@keyframes preview-arrive{from{opacity:0;transform:translateY(10px);filter:blur(15px)}to{opacity:1;transform:translateY(0);filter:blur(0)}}
+@keyframes image-arrive{from{opacity:.45;filter:blur(12px)}to{opacity:1;filter:blur(0)}}
+@media(prefers-reduced-motion:reduce){.content::before{transform:translate3d(-50%,-50%,0)}.nav-group .nav-sublist,.nav-group.expanded .nav-sublist,.nav-main,.nav-plain,.nav-sub,.nav-main::before,.nav-plain::before,.nav-sub::before,.motion-ready .project,.motion-ready .music-row,.motion-ready .cv-item,.motion-ready .program-list li,.motion-ready .participants-group,.motion-ready .section-title,.motion-ready .detail-fields,.motion-ready .detail-section,.motion-ready .roles span{transition:none;transition-delay:0ms}.motion-ready .project,.motion-ready .music-row,.motion-ready .cv-item,.motion-ready .program-list li,.motion-ready .participants-group,.motion-ready .section-title,.motion-ready .detail-fields,.motion-ready .detail-section,.motion-ready .roles span{opacity:1;transform:none;filter:none}.preview.visible,.preview-image-arrive{animation:none}}
+
+/* Longer accordion timing and pill-shaped soft green light. */
+.nav-group .nav-sublist{transition:max-height .8s cubic-bezier(.22,1,.36,1),opacity .6s ease,transform .8s cubic-bezier(.22,1,.36,1),visibility 0s linear .8s,margin .8s ease}
+.nav-group.expanded .nav-sublist{transition:max-height .8s cubic-bezier(.22,1,.36,1),opacity .6s ease .08s,transform .8s cubic-bezier(.22,1,.36,1),visibility 0s,margin .8s ease}
+.nav-main,.nav-plain,.nav-sub{border-radius:999px}
+.nav-main::before,.nav-plain::before,.nav-sub::before{border-radius:999px;filter:blur(10px)}
+.nav-main:hover::before,.nav-plain:hover::before,.nav-sub:hover::before{filter:blur(10px)}
+.nav-main.active::before,.nav-sub.active::before,.nav-plain.active::before{opacity:.8;filter:blur(10px);transform:scale(1)}
+.sidebar .nav-main.active,.sidebar .nav-sub.active,.sidebar .nav-plain.active{background:transparent}
+/* Every reveal moves down into place, including the About heading and bio. */
+.motion-ready .project,.motion-ready .music-row,.motion-ready .cv-item,.motion-ready .program-list li,.motion-ready .participants-group,.motion-ready .section-title,.motion-ready .detail-fields,.motion-ready .detail-section,.motion-ready .roles span,.motion-ready .home .eyebrow,.motion-ready .home .page-title,.motion-ready .home .bio{transform:translateY(-22px)}
+.motion-ready .home .eyebrow,.motion-ready .home .page-title,.motion-ready .home .bio{opacity:0;filter:blur(5px);transition:opacity .65s ease-out,transform .7s cubic-bezier(.2,.7,.2,1),filter .65s ease-out;transition-delay:var(--reveal-delay,0ms)}
+.motion-ready .is-visible,.motion-ready .home .is-visible{transform:translateY(0);opacity:1;filter:blur(0)}
+.music-hero{min-height:calc(100dvh - 54px);display:flex;flex-direction:column}.music-hero .music-bio{margin-bottom:24px}.music-hero .music-link{align-self:flex-start;margin:0}.music-player-area{flex:1;min-height:170px;display:flex;align-items:center}.audio-player{width:100%;display:flex;align-items:center;gap:26px;border-top:1px solid #de0c00;border-bottom:1px solid #de0c00;padding:18px 0}.audio-toggle{width:46px;height:46px;flex:none;border:1px solid #de0c00;border-radius:50%;background:transparent;cursor:pointer;font-size:1rem}.audio-toggle:hover{background:#a9ffa0}.audio-track{min-width:0;flex:1}.audio-title{display:block;font-size:.88rem;margin-bottom:10px}.audio-seek{display:block;width:100%;height:20px;margin:0;cursor:pointer;appearance:none;background:transparent}.audio-seek::-webkit-slider-runnable-track{height:2px;background:linear-gradient(to right,#de0c00 0%,#de0c00 var(--progress,0%),#e6909b var(--progress,0%),#e6909b 100%)}.audio-seek::-moz-range-track{height:2px;background:#e6909b}.audio-seek::-moz-range-progress{height:2px;background:#de0c00}.audio-seek::-webkit-slider-thumb{appearance:none;height:12px;width:12px;border:0;border-radius:50%;background:#de0c00;margin-top:-5px}.audio-seek::-moz-range-thumb{height:12px;width:12px;border:0;border-radius:50%;background:#de0c00}.audio-times{display:flex;justify-content:space-between;font-size:.75rem}.music-hero+.music-group{margin-top:38px}
+@media(max-width:760px){.music-hero{min-height:calc(100dvh - 35px)}.audio-player{gap:15px}.audio-toggle{width:42px;height:42px}}
+@media(prefers-reduced-motion:reduce){.motion-ready .home .eyebrow,.motion-ready .home .page-title,.motion-ready .home .bio{opacity:1;transform:none;filter:none;transition:none}}
+
+/* Subcategories use type color only, without a background or glow. */
+.sidebar .nav-sub,.sidebar .nav-sub:hover,.sidebar .nav-sub.active,.sidebar .nav-sub.active:hover{background:transparent}
+.sidebar .nav-sub{color:#ffc2d2}.sidebar .nav-sub:hover:not(.active){color:#a9ffa0}.sidebar .nav-sub.active,.sidebar .nav-sub.active:hover{color:#fff}
+.nav-sub::before,.nav-sub.active::before,.nav-sub:hover::before{display:none}
+/* A single red track. Playback grows a soft red halo to 40px blur. */
+.audio-player{border:0;padding:0}.audio-toggle{border:0;border-radius:0;background:none;padding:0;width:34px;height:44px;font-size:1.4rem;line-height:1;cursor:pointer}.audio-toggle:hover{background:none;opacity:.5}.audio-track{display:flex;align-items:center}.audio-progress{position:relative;width:100%;height:46px;display:flex;align-items:center;--progress:0%;--blur-radius:0px}.audio-progress::before,.audio-progress::after{content:"";position:absolute;left:0;top:50%;transform:translateY(-50%);pointer-events:none;background:#de0c00}.audio-progress::before{width:100%;height:2px}.audio-progress::after{width:var(--progress);height:4px;filter:blur(var(--blur-radius));will-change:width,filter}.audio-seek{position:relative;z-index:1;width:100%;height:46px;opacity:0;cursor:pointer}.audio-seek:focus-visible{opacity:1;outline:2px solid #de0c00;outline-offset:3px}.audio-seek::-webkit-slider-runnable-track{background:transparent}.audio-seek::-moz-range-track,.audio-seek::-moz-range-progress{background:transparent}.audio-seek::-webkit-slider-thumb,.audio-seek::-moz-range-thumb{background:transparent;border:0}
+
+/* The selected category is brighter than hover. Child links enter in sequence. */
+.nav-main:not(.active):hover::before,.nav-plain:not(.active):hover::before{background:#a9ffab;opacity:.9}.nav-main.active::before,.nav-plain.active::before{background:#a9ffa0;opacity:1}.sidebar .nav-main.active,.sidebar .nav-plain.active{background:transparent}
+.nav-sublist .nav-sub{opacity:0;transform:translateY(-12px);transition:opacity .38s ease,transform .48s cubic-bezier(.22,1,.36,1),color .15s ease;transition-delay:0ms}
+.nav-group.expanded .nav-sublist .nav-sub{opacity:1;transform:translateY(0)}
+.nav-group.expanded .nav-sublist .nav-sub:nth-child(1){transition-delay:.10s,.10s,0s}.nav-group.expanded .nav-sublist .nav-sub:nth-child(2){transition-delay:.20s,.20s,0s}.nav-group.expanded .nav-sublist .nav-sub:nth-child(3){transition-delay:.30s,.30s,0s}.nav-group.expanded .nav-sublist .nav-sub:nth-child(4){transition-delay:.40s,.40s,0s}
+
+@media(prefers-reduced-motion:reduce){.nav-sublist .nav-sub,.nav-group.expanded .nav-sublist .nav-sub{opacity:1;transform:none;transition:none}}
+
+.home-about-grid{display:grid;grid-template-columns:clamp(190px,23%,280px) minmax(0,1fr);gap:clamp(28px,4vw,70px);align-items:start;margin:30px 0 90px}.home-about-grid .home-portrait{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover}.home-about-grid .bio{margin:0;max-width:none}.motion-ready .home .home-portrait{opacity:0;transform:translateY(-22px);filter:blur(5px);transition:opacity .65s ease-out,transform .7s cubic-bezier(.2,.7,.2,1),filter .65s ease-out;transition-delay:var(--reveal-delay,0ms)}.motion-ready .home .home-portrait.is-visible{opacity:1;transform:translateY(0);filter:blur(0)}
+@media(max-width:850px){.home-about-grid{grid-template-columns:minmax(140px,34%) minmax(0,1fr);gap:22px}}
+@media(max-width:570px){.home-about-grid{grid-template-columns:1fr;gap:28px}.home-about-grid .home-portrait{width:min(72%,290px)}.home-about-grid .bio{margin:0}}
+@media(prefers-reduced-motion:reduce){.motion-ready .home .home-portrait{opacity:1;transform:none;filter:none;transition:none}}
+
+.home .life-timeline{position:relative;display:grid;gap:36px;max-width:850px;padding-left:34px;margin-bottom:100px}.life-timeline::before{content:"";position:absolute;left:5px;top:7px;bottom:9px;width:1px;background:#de0c00;opacity:.6}.life-phase{position:relative}.life-phase::before{content:"";position:absolute;left:-34px;top:4px;width:11px;height:11px;background:#de0c00;border-radius:50%}.life-phase h2{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;font-weight:400;margin:0 0 13px}.life-roles span{display:block}.life-phase.previous-life{opacity:.8}.motion-ready .life-phase h2{opacity:0;transform:translateY(-22px);filter:blur(5px);transition:opacity .65s ease-out,transform .7s cubic-bezier(.2,.7,.2,1),filter .65s ease-out;transition-delay:var(--reveal-delay,0ms)}.motion-ready .life-phase h2.is-visible{opacity:1;transform:none;filter:none}
+@media(prefers-reduced-motion:reduce){.motion-ready .life-phase h2{opacity:1;transform:none;filter:none;transition:none}}
+
+/* Type and spacing connect the two practices without a literal timeline. */
+.home .life-timeline{display:block;padding-left:0;margin-bottom:55px}.life-timeline::before,.life-phase::before{display:none}.life-phase.throughline-phase{margin-top:30px;opacity:1}
+.throughline-copy{font-size:clamp(1.08rem,1.6vw,1.4rem);letter-spacing:-.015em;line-height:1.5;max-width:770px;margin:0}.motion-ready .throughline-copy{opacity:0;transform:translateY(-22px);filter:blur(5px);transition:opacity .65s ease-out,transform .7s cubic-bezier(.2,.7,.2,1),filter .65s ease-out;transition-delay:var(--reveal-delay,0ms)}.motion-ready .throughline-copy.is-visible{opacity:1;transform:none;filter:none}
+@media(prefers-reduced-motion:reduce){.motion-ready .throughline-copy{opacity:1;transform:none;filter:none;transition:none}}
+@media(max-width:1050px){.layout{grid-template-columns:255px minmax(0,1fr)}.sidebar{padding:20px 15px}.content{padding:42px 35px 75px}.work-grid{grid-template-columns:minmax(0,1fr) 30%;gap:25px}.project{grid-template-columns:54px minmax(0,1fr);gap:10px}.project .tag{grid-column:2;text-align:left;padding-top:0}.project-summary{margin-top:10px}.blocks{gap:24px}}
+@media(max-width:760px){.layout{display:block}.sidebar{position:relative;height:auto;overflow:visible;border-right:0;border-bottom:1px solid #aaa;padding:16px}.brand{font-size:1.45rem}.menu-toggle{display:block;position:absolute;right:16px;top:16px;border:1px solid #1d1d1b;background:transparent;padding:7px 12px;border-radius:100px;cursor:pointer;font-size:.8rem}.current{margin:15px 70px 0 0}.sidebar .nav,.sidebar .sidebar-bottom{display:none}.sidebar.open .nav{display:flex;margin-top:22px}.sidebar.open .sidebar-bottom{display:flex}.content{padding:35px 18px 70px}.page-title{font-size:clamp(3.6rem,14vw,6rem)}.home .roles{margin-bottom:75px}.bio{margin:25px 0 70px;font-size:1.06rem}.now-item{display:block}.now-item span{display:block}.now-item span:last-child{margin-top:8px;text-align:left}.work-grid{display:block}.preview{display:none!important}.project{grid-template-columns:65px 1fr}.project-title{font-size:1.55rem}.project-summary{font-size:.84rem}.work-head .page-title{font-size:clamp(3.1rem,12vw,5rem)}.work-head{align-items:end}.count{white-space:nowrap}.detail-fields{grid-template-columns:1fr;gap:20px}.participants-group{grid-template-columns:1fr;gap:8px}.detail-section{margin:55px 0}.gallery-grid{grid-template-columns:1fr}.music-row,.now-list .music-row{grid-template-columns:1fr;gap:5px}.music-row span:last-child{text-align:left}.cv-item{grid-template-columns:1fr;gap:5px}.cv-place{text-align:left}.cv-intro{margin-bottom:60px}}
+@media(max-width:760px){.sidebar{border-bottom:0}.menu-toggle{border-color:#ffc2d2;color:#ffc2d2}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Detail copy must stay visible even when a nested reveal is offscreen. */
+.motion-ready .detail .detail-section,.motion-ready .detail .program-list li,.motion-ready .detail .participants-group{opacity:1;transform:none;filter:none;transition:none}
+.detail .participants-group{border-color:#de0c00}
+
+/* Dense gallery columns keep spacing even across mixed photo proportions. */
+/* Gallery: two square thumbnails per row, in JSON order. */
+.detail .gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  width: 100%;
+}
+
+.detail .gallery-grid figure {
+  min-width: 0;
+  margin: 0;
+}
+
+.detail .gallery-image-button {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: zoom-in;
+  overflow: hidden;
+}
+
+.detail .gallery-grid .gallery-image-button img,
+.detail .gallery-grid video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+}
+
+.detail .gallery-grid video {
+  aspect-ratio: 1;
+}
+
+@media (max-width: 760px) {
+  .detail .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+}
+/* Section headers provide the only rules for program and participants. */
+.detail .program-list,.detail .program-list li,.detail .participants-group,.detail .participants-group:first-child{border:0}
+.detail .program-list li{padding:8px 0}
+.detail .participants-group{padding:8px 0}
+/* Gallery images enter sequentially as they reach the viewport. */
+.motion-ready .detail .gallery-grid figure{opacity:0;transform:translateY(-22px);filter:blur(5px);transition:opacity .65s ease-out,transform .7s cubic-bezier(.2,.7,.2,1),filter .65s ease-out;transition-delay:var(--reveal-delay,0ms)}
+.motion-ready .detail .gallery-grid figure.is-visible{opacity:1;transform:none;filter:none}
+@media(prefers-reduced-motion:reduce){.motion-ready .detail .gallery-grid figure{opacity:1;transform:none;filter:none;transition:none}}
+
+/* Compact, even navigation keeps links and footer visible at laptop height. */
+.sidebar .current{margin-bottom:22px}
+.sidebar .nav{gap:7px}.sidebar .nav-group{margin-bottom:0}.sidebar .nav-plain{margin-top:0}
+.sidebar .nav-main,.sidebar .nav-plain{padding-top:5px;padding-bottom:5px}
+.sidebar .nav-separator{margin:9px 0 4px}
+.sidebar .sidebar-bottom{padding-top:13px;gap:6px}
+.sidebar .nav-with-count{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.sidebar .nav-with-count .n{font-size:.76rem;color:#ffc2d2}
+.sidebar .nav-with-count.active .n,.sidebar .nav-with-count:hover .n{color:#de0c00}
+.sidebar-bottom .theme-toggle{width:100%;margin-top:8px;padding:9px 0 0;border:0;border-top:1px solid #ffc2d2;background:transparent;display:flex;justify-content:space-between;align-items:center;text-align:left;cursor:pointer;color:inherit;font-size:.83rem}
+.theme-switch{display:block;width:38px;height:20px;padding:3px;border:1px solid currentColor;border-radius:20px}.theme-thumb{display:block;width:12px;height:12px;border-radius:50%;background:currentColor;transition:transform .25s ease}
+.theme-toggle[aria-pressed="true"] .theme-thumb{transform:translateX(18px)}
+/* Charcoal sidebar and warm paper content in neutral mode. */
+body.theme-neutral{background:#FFF6F0;color:#111111}
+.theme-neutral .sidebar{background:#111111;color:#FFF6F0}
+.theme-neutral .sidebar .brand,.theme-neutral .sidebar .current-label,.theme-neutral .sidebar .nav-main,.theme-neutral .sidebar .nav-plain,.theme-neutral .sidebar .nav-main .n,.theme-neutral .sidebar .nav-with-count .n,.theme-neutral .sidebar .nav-sub,.theme-neutral .sidebar .sidebar-bottom,.theme-neutral .sidebar .theme-toggle{color:#FFF6F0}
+.theme-neutral .sidebar .nav-sub:hover:not(.active){color:#FFF6F0}
+.theme-neutral .sidebar .nav-sub.active,.theme-neutral .sidebar .nav-sub.active:hover{color:#FFF6F0}
+.theme-neutral .sidebar .nav-main:hover:not(.active),.theme-neutral .sidebar .nav-plain:hover:not(.active),.theme-neutral .sidebar .nav-main:hover:not(.active) .n,.theme-neutral .sidebar .nav-with-count:hover:not(.active) .n{color:#FFF6F0}
+.theme-neutral .sidebar .nav-main.active,.theme-neutral .sidebar .nav-plain.active,.theme-neutral .sidebar .nav-main.active .n,.theme-neutral .sidebar .nav-with-count.active .n{color:#111111}
+.theme-neutral .nav-main::before,.theme-neutral .nav-plain::before,.theme-neutral .nav-main.active::before,.theme-neutral .nav-plain.active::before{background:#FFF6F0}
+.theme-neutral .nav-main:not(.active):hover::before,.theme-neutral .nav-plain:not(.active):hover::before{background:#777870}
+.theme-neutral .nav-sublist,.theme-neutral .nav-separator,.theme-neutral .sidebar-bottom .theme-toggle{border-color:#a7a49d}
+.theme-neutral .sidebar-bottom a:hover,.theme-neutral .current a:hover{color:#FFF6F0}
+.theme-neutral .content{background:#FFF6F0}
+.theme-neutral .content::before{display:none}.theme-neutral .content::after{opacity:.035}
+.theme-neutral .content,.theme-neutral .content *{color:#111111!important}
+.theme-neutral .content *{border-color:#999}
+.theme-neutral .content .section-title,.theme-neutral .content .project-list,.theme-neutral .content .detail-fields,.theme-neutral .content .detail-section h2,.theme-neutral .content .music-group h2,.theme-neutral .content .cv-section h2,.theme-neutral .content :is(.show-all,.detail-source,.music-link){border-color:#111111}
+.theme-neutral .content :is(.project-title,.music-row a,.now-list a,.detail-back):hover,.theme-neutral .content .project-title:focus-visible{background:transparent;color:#111111!important;text-decoration:none}
+.theme-neutral .content :is(.show-all,.detail-source,.music-link):hover{background:#111111;color:#FFF6F0!important;border-color:#111111}
+.theme-neutral .content .audio-progress::before,.theme-neutral .content .audio-progress::after{background:#111111}
+.theme-neutral ::selection{background:#111111;color:#FFF6F0}
+.theme-neutral :is(button,a,summary):focus-visible,.theme-neutral .audio-seek:focus-visible{outline-color:#111111}
+.theme-neutral .menu-toggle{color:#FFF6F0;border-color:#FFF6F0}
+@media(max-width:760px){.sidebar .current{margin-bottom:16px}}
+#gallery-lightbox {
+  width: min(96vw, 1400px);
+  max-width: none;
+  max-height: 96vh;
+  padding: 32px;
+  border: 0;
+  background: transparent;
+  color: #de0c0d;
+  overflow: visible;
+}
+
+#gallery-lightbox::backdrop {
+  background: #00000095;
+}
+
+#gallery-lightbox img {
+  display: block;
+  max-width: 100%;
+  max-height: calc(96vh - 80px);
+  margin: auto;
+  object-fit: contain;
+}
+
+.lightbox-close {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  border: 0;
+  padding: 0 8px;
+  background: transparent;
+  color: #ffffff;
+  font-size: 36px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.lightbox-credit {
+  margin: 10px 0 0;
+  color: #ffffff;
+  font-size: .75rem;
+}
+
+.lightbox-credit {
+  margin: 12px 0 0;
+  font-size: .75rem;
+}
+/* Center the enlarged image within the right content area. */
+#gallery-lightbox {
+  --content-left: calc(max(0px, (100vw - 1850px) / 2) + 300px);
+
+  position: fixed;
+  top: 50%;
+  left: calc(var(--content-left) + (100vw - var(--content-left)) / 2);
+  transform: translate(-50%, -50%);
+  margin: 0;
+  width: min(1400px, calc(100vw - var(--content-left) - 48px));
+}
+
+@media (max-width: 1050px) {
+  #gallery-lightbox {
+    --content-left: 255px;
+  }
+}
+
+@media (max-width: 760px) {
+  #gallery-lightbox {
+    --content-left: 0px;
+    width: calc(100vw - 32px);
+  }
+}
+</style></head>
+<body>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Portfolio navigation">
+      <a class="brand" href="#home">Amy Xiaofan Jiang</a>
+      <button class="menu-toggle" id="menu-toggle" type="button" aria-expanded="false" aria-controls="sidebar-nav">Menu</button>
+      <div class="current"></div>
+      <nav class="nav" id="sidebar-nav" aria-label="Work categories">
+        <div class="nav-group">
+          <button class="nav-main" type="button" data-view="curation">
+            Curation <span class="n" data-count="curation">6</span>
+          </button>
+          <div class="nav-sublist">
+            <button class="nav-sub" type="button" data-view="curation" data-filter="Performance">Performance</button>
+            <button class="nav-sub" type="button" data-view="curation" data-filter="Exhibition">Exhibition</button>
+            <button class="nav-sub" type="button" data-view="curation" data-filter="Virtual Curation">Virtual Curation</button>
+            <button class="nav-sub" type="button" data-view="curation" data-filter="Talk">Talk</button>
+          </div>
+        </div>
+        <div class="nav-group">
+          <button class="nav-main" type="button" data-view="event">
+            Event Production <span class="n" data-count="event">3</span>
+          </button>
+          <div class="nav-sublist">
+            <button class="nav-sub" type="button" data-view="event" data-filter="Corporate">Corporate</button>
+            <button class="nav-sub" type="button" data-view="event" data-filter="Community">Community</button>
+          </div>
+        </div>
+        <div class="nav-group">
+          <button class="nav-main" type="button" data-view="design">
+            Design <span class="n" data-count="design">2</span>
+          </button>
+          <div class="nav-sublist">
+            <button class="nav-sub" type="button" data-view="design" data-filter="Brand">Brand</button>
+            <button class="nav-sub" type="button" data-view="design" data-filter="Product">Product</button>
+            <button class="nav-sub" type="button" data-view="design" data-filter="UI/UX">UI/UX</button>
+          </div>
+        </div>
+        <button class="nav-plain nav-with-count" type="button" data-view="writing">
+          Writing / Editing <span class="n" data-count="writing">4</span>
+        </button>
+        <button class="nav-plain" type="button" data-view="music">Music</button>
+        <div class="nav-separator"></div>
+        <button class="nav-plain" type="button" data-view="cv">CV</button>
+      </nav>
+      <div class="sidebar-bottom">
+        <a class="instagram" href="#" target="_blank" rel="noopener noreferrer">Instagram ↗</a>
+        <a class="email" href="#" target="_blank" rel="noopener noreferrer">Email ↗</a>
+        <a class="linkedin" href="#" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+        <button class="theme-toggle" type="button" aria-label="Switch to neutral colors" aria-pressed="false">
+          <span>Color mode</span>
+          <span class="theme-switch" aria-hidden="true"><span class="theme-thumb"></span></span>
+        </button>
+      </div>
+    </aside>
+    <main class="content" id="content" tabindex="-1"></main>
+  </div>
+<dialog id="gallery-lightbox" aria-label="Image preview">
+  <button class="lightbox-close" type="button" aria-label="Close image">×</button>
+  <img alt="">
+  <p class="lightbox-credit" hidden></p>
+</dialog>
+<script>
+// Content is maintained in dist/content/*.json. See README.md for each file's purpose.
+let projects=[], publications=[], shows=[], cvSections=[];
+let bio='', homeRoles=[], throughline='', portraitRed='', portraitNeutral='';
+let musicBio='', soundCloudUrl='', musicFile='', cvIntro='', nowItems=[];
+let homeData={}, upToData={}, dataReady=false;
+async function loadContent(){
+  const files=['curation.json','event production.json','design.json','writing.json','music.json','cv.json','home-bio.json','up-to.json'];
+  const values=await Promise.all(files.map(async file=>{
+    const response=await fetch('content/'+encodeURIComponent(file),{cache:'no-store'});
+    if(!response.ok)throw new Error(file+': HTTP '+response.status);
+    return response.json();
+  }));
+  const [curation,eventProduction,design,writing,music,cv,home,upTo]=values;
+  projects=[...curation,...eventProduction,...design];
+  publications=writing;
+  shows=music.shows;
+  musicBio=music.bio;
+  soundCloudUrl=music.soundCloudUrl;
+  musicFile=music.audioFile;
+  cvSections=cv.sections;
+  cvIntro=cv.introduction;
+  homeData=home;
+  bio=home.bio;
+  homeRoles=home.roles;
+  throughline=home.throughline;
+  portraitRed=home.portraitRed;
+  portraitNeutral=home.portraitNeutral;
+  upToData=upTo;
+  nowItems=upTo.nowItems;
+  document.querySelector('.brand').textContent=home.name;
+  document.querySelector('.current').innerHTML='<span class="current-label">'+upTo.currentlyHeading+'</span>'+upTo.positions.map(position=>position.before+'<a href="'+position.url+'" target="_blank" rel="noopener noreferrer">'+position.name+'</a>').join('<br>');
+  document.querySelector('.sidebar-bottom .instagram').href=upTo.contact.instagram;
+  document.querySelector('.sidebar-bottom .email').href=upTo.contact.email;
+  document.querySelector('.sidebar-bottom .linkedin').href=upTo.contact.linkedin;
+  document.querySelectorAll('[data-count]').forEach(el=>el.textContent=el.dataset.count==='writing'?publications.length:projects.filter(p=>p.category===el.dataset.count).length);
+  dataReady=true;
+  render();
+}
+const themeToggle=document.querySelector('.theme-toggle');
+function setTheme(neutral){document.body.classList.toggle('theme-neutral',neutral);themeToggle.setAttribute('aria-pressed',String(neutral));themeToggle.setAttribute('aria-label',neutral?'Switch to red colors':'Switch to neutral colors');const portrait=document.querySelector('.home-portrait');if(portrait)portrait.src=neutral?portraitNeutral:portraitRed;try{localStorage.setItem('amy-portfolio-theme',neutral?'neutral':'red')}catch{}}
+try{setTheme(localStorage.getItem('amy-portfolio-theme')==='neutral')}catch{setTheme(false)}
+themeToggle.addEventListener('click',()=>setTheme(!document.body.classList.contains('theme-neutral')));
+const labels={curation:'Curation',event:'Event Production',design:'Design',writing:'Writing / Editing'};
+const filters={curation:['Performance','Virtual Curation','Exhibition','Talk'],event:['Corporate','Community'],design:['Brand','Product','UI/UX']};
+const main=document.getElementById('content');
+const sidebar=document.getElementById('sidebar');
+const menuToggle=document.getElementById('menu-toggle');
+menuToggle.addEventListener('click',()=>{const open=sidebar.classList.toggle('open');menuToggle.setAttribute('aria-expanded',String(open));menuToggle.textContent=open?'Close':'Menu'});
+function closeMenu(){sidebar.classList.remove('open');menuToggle.setAttribute('aria-expanded','false');menuToggle.textContent='Menu'}
+function targetFromHash(){const parts=location.hash.slice(1).split('/').map(decodeURIComponent);if(parts[0]==='project'){const project=projects.find(p=>p.slug===parts[1]);if(project)return {view:'project',filter:null,project}}const view=['curation','event','design','music','writing','cv'].includes(parts[0])?parts[0]:'home';const filter=filters[view]?.includes(parts[1])?parts[1]:null;return {view,filter,project:null}}
+function go(view,filter){location.hash=filter?'#'+view+'/'+encodeURIComponent(filter):'#'+view; if(location.hash==='#'+view&&!filter) render();closeMenu();window.scrollTo({top:0,behavior:'instant'})}
+let collapsedGroup=null;
+document.querySelectorAll('[data-view]').forEach(button=>button.addEventListener('click',()=>{const view=button.dataset.view,filter=button.dataset.filter||null;if(button.classList.contains('nav-main')){const current=targetFromHash(),active=current.project?current.project.category:current.view;collapsedGroup=active===view?(collapsedGroup===view?null:view):null}else collapsedGroup=null;go(view,filter)}));
+document.querySelector('.brand').addEventListener('click',closeMenu);
+function render(){if(!dataReady)return;main.querySelector('audio')?.pause();main.classList.add('motion-ready');requestAnimationFrame(revealVisibleItems);const {view,filter,project}=targetFromHash();const activeView=project?project.category:view;document.title=(project?project.title:view==='home'?homeData.name:labels[view]|| (view==='cv'?'CV':view==='writing'?'Writing / Editing':'Music'))+' — Portfolio';document.querySelectorAll('[data-view]').forEach(button=>{const selected=button.dataset.view===activeView&&(button.dataset.filter||null)===filter;button.classList.toggle('active',selected || (button.classList.contains('nav-main') && button.dataset.view===activeView));if(selected)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current')});document.querySelectorAll('.nav-group').forEach(group=>{const expanded=group.querySelector('.nav-main').dataset.view===activeView&&collapsedGroup!==activeView;group.classList.toggle('expanded',expanded);group.querySelector('.nav-main').setAttribute('aria-expanded',String(expanded))});
+if(view==='home'){main.innerHTML='<section class="home"><p class="eyebrow">Home / Bio</p><h1 class="page-title">'+homeData.name+'</h1><div class="roles life-timeline" aria-label="Practice and throughline"><section class="life-phase"><h2>'+homeData.foregroundHeading+'</h2><div class="life-roles">'+homeRoles.map(role=>'<span>'+role+'</span>').join('')+'</div></section><section class="life-phase throughline-phase"><h2>'+homeData.throughlineHeading+'</h2><p class="throughline-copy">'+throughline+'</p></section></div><h2 class="section-title">'+homeData.bioHeading+'</h2><div class="home-about-grid"><img class="home-portrait" src="'+(document.body.classList.contains('theme-neutral')?portraitNeutral:portraitRed)+'" alt="'+homeData.portraitAlt+'" loading="eager" decoding="async"><div class="bio">'+bio+'</div></div><section class="now-section"><h2 class="section-title">'+upToData.nowHeading+'</h2><div class="music-list now-list">'+nowItems.map(item=>'<div class="music-row"><span>'+item.date+'</span><strong><a href="'+item.url+'"'+(item.url.startsWith('http')?' target="_blank" rel="noopener noreferrer"':'')+'>'+item.title+' ↗</a></strong><span class="muted">'+item.tag+'</span></div>').join('')+'</div></section></section>';return}
+if(project){const fields=[['Role',project.role], project.category === 'design'
+    ? ['Client', project.client]
+    : ['Venue', project.venue],['Date',project.date]];
+    const gallery=project.gallery||[{image:project.image,imageAlt:project.imageAlt,photoCredit:project.photoCredit}];main.innerHTML='<article class="detail"><a class="detail-back" href="#'+project.category+'">← All '+labels[project.category]+' projects</a><h1 class="page-title">'+project.title+'</h1><div class="detail-meta"><span>'+project.year+'</span><span>'+(project.tags||[project.tag]).join(' · ')+'</span></div><dl class="detail-fields">'+fields.map(([label,value])=>'<div class="detail-field"><dt>'+label+'</dt><dd>'+(value||'Details to be added')+'</dd></div>').join('')+'</dl><section class="detail-section"><h2>About the project</h2><p class="detail-intro">'+(project.introduction||project.description)+'</p></section>'+(project.category!=='design'&&project.program?.length?'<section class="detail-section"><h2>Program</h2><ul class="program-list">'+project.program.map(entry=>'<li>'+entry+'</li>').join('')+'</ul></section>':'')+(project.category!=='design'&&project.participants?.length?'<section class="detail-section"><h2>Artists / Participants</h2><div class="participants-list">'+project.participants.map(group=>'<div class="participants-group"><h3>'+group.heading+'</h3><p>'+group.names+'</p></div>').join('')+'</div></section>':'')+'<section class="detail-section"><h2>Gallery</h2><div class="gallery-grid">'+gallery.map((item, index) =>
+  '<figure>' +
+    (item.video
+      ? '<video controls playsinline preload="metadata" aria-label="' +
+          (item.imageAlt || 'Project video') + '"' +
+          (item.poster ? ' poster="' + item.poster + '"' : '') +
+          '><source src="' + item.video +
+          '" type="video/mp4">Your browser does not support this video.</video>'
+      : '<button class="gallery-image-button" type="button" data-gallery-index="' +
+          index + '" aria-label="Enlarge image: ' +
+          (item.imageAlt || 'Project image') + '">' +
+          '<img src="' + item.image + '" alt="' +
+          (item.imageAlt || '') + '" loading="lazy">' +
+        '</button>'
+    ) +
+    //'<figcaption' + (item.photoCredit ? '' : ' hidden') + '>' +
+     // (item.photoCredit || '') +
+   // '</figcaption>' +
+  '</figure>'
+).join('')+'</div></section>'+(project.url?'<a class="detail-source" href="'+project.url+'" target="_blank" rel="noopener noreferrer">View project ↗</a>':'')+'</article>';return}
+if(view==='writing'){main.innerHTML='<section class="work writing"><p class="eyebrow">Publications</p><div class="work-head"><h1 class="page-title">Writing / Editing</h1><span class="count">'+publications.length+' publications</span></div><div class="project-list writing-list">'+publications.map(item=>'<div class="project"><span class="year">'+item.year+'</span><div class="project-content"><a class="project-title" href="'+item.url+'"'+(item.url.startsWith('http')?' target="_blank" rel="noopener noreferrer"':'')+'>'+item.title+(item.url.startsWith('http')?' ↗':'')+'</a><p class="project-summary">'+item.description+'</p><p class="publication-credit">'+item.credit+'</p></div><span class="tag">Publication</span></div>').join('')+'</div></section>';return}
+if(view==='music'){main.innerHTML='<section class="music"><div class="music-hero"><p class="eyebrow">Music / aaamiee</p><h1 class="page-title">Music</h1><p class="music-bio">'+musicBio+'</p><a class="music-link" href="'+soundCloudUrl+'" target="_blank" rel="noopener noreferrer">SoundCloud ↗</a><div class="music-player-area"><div class="audio-player"><button type="button" class="audio-toggle" aria-label="Play audio">▶</button><div class="audio-track"><div class="audio-progress"><input class="audio-seek" type="range" min="0" max="1000" value="0" aria-label="Seek through the audio recording"></div></div><audio preload="metadata" src="'+musicFile+'"></audio></div></div></div>'+['Upcoming','Past'].map(status=>'<section class="music-group"><h2>'+status+' performances</h2><div class="music-list">'+shows.filter(show=>show.status===status).map(show=>'<div class="music-row"><span>'+show.date+'</span><strong>'+(show.url?'<a href="'+show.url+'"'+(show.url.startsWith('http')?' target="_blank" rel="noopener noreferrer"':'')+'>'+show.title+' ↗</a>':show.title)+'</strong><span class="muted">'+show.status+'</span></div>').join('')+'</div></section>').join('')+'</section>';initMusicPlayer();return}
+if(view==='cv'){main.innerHTML='<section class="cv"><p class="eyebrow">Curriculum vitae</p><h1 class="page-title">CV</h1><p class="cv-intro">'+cvIntro+'</p>'+cvSections.map(section=>'<section class="cv-section"><h2>'+section.title+'</h2><div class="cv-items">'+section.items.map(item=>'<article class="cv-item"><span class="cv-date">'+item.date+'</span><div><h3>'+item.title+'</h3><p>'+item.role+'</p></div><span class="cv-place">'+item.place+'</span></article>').join('')+'</div></section>').join('')+'</section>';return}
+const shown=projects.filter(p=>p.category===view&&(!filter||(p.tags||[p.tag]).includes(filter)));
+main.innerHTML='<section class="work"><p class="eyebrow">Selected works</p><div class="work-head"><h1 class="page-title">'+labels[view]+(filter?'<span class="work-subtitle">/ '+filter+'</span>':'')+'</h1><span class="count">'+shown.length+' '+(shown.length===1?'project':'projects')+'</span></div>'+(filter?'<div class="filter-strip"><button class="show-all" type="button">Back to all '+labels[view].toLowerCase()+' projects</button></div>':'')+'<div class="work-grid"><div class="project-list">'+(shown.length?shown.map((p,i)=>'<div class="project" data-index="'+i+'"><span class="year">'+p.year+'</span><div class="project-content"><a class="project-title" href="#project/'+p.slug+'">'+p.title+'</a><p class="project-summary">'+p.description+'</p></div>'+(filter?'':'<span class="tag">'+(p.tags||[p.tag]).join(' · ')+'</span>')+'</div>').join(''):'<div class="empty">Projects to be added.</div>')+'</div><figure class="preview" id="preview"><a class="preview-link" id="preview-link" href="#"><img id="preview-image" src="work-preview.jpg" alt="Project preview photograph"></a><figcaption id="preview-caption" hidden></figcaption></figure></div></section>';
+main.querySelector('.show-all')?.addEventListener('click',()=>go(view,null));
+const preview=main.querySelector('#preview');const caption=main.querySelector('#preview-caption');const previewLink=main.querySelector('#preview-link');const previewImage=main.querySelector('#preview-image');let hideTimer;
+function show(p){clearTimeout(hideTimer);preview.classList.add('visible');previewLink.href='#project/'+p.slug;previewImage.src=p.image;previewImage.alt=p.imageAlt;previewImage.classList.remove('preview-image-arrive');void previewImage.offsetWidth;previewImage.classList.add('preview-image-arrive');caption.textContent=p.photoCredit;caption.hidden=!p.photoCredit}
+function hide(){hideTimer=setTimeout(()=>preview.classList.remove('visible'),220)}
+main.querySelectorAll('.project').forEach(row=>{const p=shown[Number(row.dataset.index)];row.addEventListener('mouseenter',()=>show(p));row.addEventListener('focusin',()=>show(p))});main.querySelector('.work-grid').addEventListener('mouseleave',hide);preview.addEventListener('mouseenter',()=>clearTimeout(hideTimer));previewLink.addEventListener('focus',()=>clearTimeout(hideTimer))}
+function initMusicPlayer(){const root=main.querySelector('.audio-player'),audio=root.querySelector('audio'),toggle=root.querySelector('.audio-toggle'),seek=root.querySelector('.audio-seek'),progress=root.querySelector('.audio-progress');function sync(){const total=audio.duration||0;const ratio=total?Math.min(1,Math.max(0,audio.currentTime/total)):0;seek.value=Math.round(ratio*1000);progress.style.setProperty('--progress',(ratio*100).toFixed(2)+'%');progress.style.setProperty('--blur-radius',(ratio*40).toFixed(2)+'px')}toggle.addEventListener('click',async()=>{if(audio.paused){try{await audio.play()}catch{toggle.setAttribute('aria-label','Audio unavailable')}}else audio.pause()});audio.addEventListener('play',()=>{toggle.textContent='Ⅱ';toggle.setAttribute('aria-label','Pause audio')});audio.addEventListener('pause',()=>{toggle.textContent='▶';toggle.setAttribute('aria-label','Play audio')});audio.addEventListener('loadedmetadata',sync);audio.addEventListener('timeupdate',sync);audio.addEventListener('ended',sync);seek.addEventListener('input',()=>{if(audio.duration){audio.currentTime=Number(seek.value)/1000*audio.duration;sync()}})}
+const reducedMotion=window.matchMedia('(prefers-reduced-motion: reduce)');
+let revealObserver;
+function revealVisibleItems(){revealObserver?.disconnect();if(reducedMotion.matches)return;revealObserver=new IntersectionObserver(entries=>{entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('is-visible');revealObserver.unobserve(entry.target)}})},{threshold:.08,rootMargin:'0px 0px -25px 0px'});main.querySelectorAll('.project,.music-row,.cv-item,.program-list li,.participants-group,.section-title,.detail-fields,.detail-section,.roles span,.life-phase h2,.throughline-copy,.home .eyebrow,.home .page-title,.home .home-portrait,.home .bio,.gallery-grid figure').forEach((item,index)=>{const homeSequence=item.closest('.home'),gallery=item.closest('.gallery-grid');item.style.setProperty('--reveal-delay',(gallery?Math.min(Array.prototype.indexOf.call(gallery.children,item),8)*95:homeSequence?Math.min(index,9)*95:Math.min(index%7,6)*65)+'ms');revealObserver.observe(item)})}
+if(!reducedMotion.matches){let desiredX=0,desiredY=0,followX=0,followY=0,blobX=0,blobY=0;let pointerActive=false;const content=document.querySelector('.content');window.addEventListener('pointermove',event=>{if(event.pointerType==='touch')return;pointerActive=true;desiredX=(event.clientX-innerWidth/2)*.48;desiredY=(event.clientY-innerHeight/2)*.48},{passive:true});document.addEventListener('pointerleave',()=>{pointerActive=false});function moveBlob(time){if(document.visibilityState==='visible'){const driftX=Math.sin(time/6300)*innerWidth*.08,driftY=Math.cos(time/8000)*innerHeight*.08;const targetX=pointerActive?desiredX:driftX,targetY=pointerActive?desiredY:driftY;followX+=(targetX-followX)*.038;followY+=(targetY-followY)*.038;blobX+=(followX-blobX)*.035;blobY+=(followY-blobY)*.035;content.style.setProperty('--blob-x',blobX.toFixed(1)+'px');content.style.setProperty('--blob-y',blobY.toFixed(1)+'px')}requestAnimationFrame(moveBlob)}requestAnimationFrame(moveBlob)}
+window.addEventListener('hashchange',()=>{render();if(dataReady&&targetFromHash().project)window.scrollTo({top:0,left:0,behavior:'instant'})});
+const galleryLightbox = document.getElementById('gallery-lightbox');
+
+main.addEventListener('click', event => {
+  const button = event.target.closest('.gallery-image-button');
+  if (!button) return;
+
+  const project = targetFromHash().project;
+  if (!project) return;
+
+  const gallery = project.gallery || [{
+    image: project.image,
+    imageAlt: project.imageAlt,
+    photoCredit: project.photoCredit
+  }];
+  const item = gallery[Number(button.dataset.galleryIndex)];
+  if (!item?.image) return;
+
+  const image = galleryLightbox.querySelector('img');
+  const credit = galleryLightbox.querySelector('.lightbox-credit');
+
+  image.src = item.image;
+  image.alt = item.imageAlt || '';
+  credit.textContent = item.photoCredit || '';
+  credit.hidden = !item.photoCredit;
+  galleryLightbox.showModal();
+});
+
+galleryLightbox.querySelector('.lightbox-close').addEventListener(
+  'click',
+  () => galleryLightbox.close()
+);
+
+galleryLightbox.addEventListener('click', event => {
+  if (event.target === galleryLightbox) galleryLightbox.close();
+});loadContent().catch(error=>{console.error('Portfolio content could not load:',error);main.innerHTML='<section class="empty">Could not load content. Preview this folder using VS Code Live Server, or run <code>python3 -m http.server 8000 --directory dist</code> from the project folder. Check the browser console for the file name.</section>'});
+
+
+  // 这里保留你原有的全部 JavaScript
+</script>
+</body>
+</html>

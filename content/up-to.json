@@ -1,0 +1,40 @@
+{
+  "currentlyHeading": "Currently",
+  "positions": [
+    {
+      "before": "Founder & Director of ",
+      "name": "Underground Art And Design",
+      "url": "https://uaad.art"
+    },
+    {
+      "before": "Event Producer at ",
+      "name": "FLORA",
+      "url": "https://flora.ai/"
+    },
+    {
+      "before": "Y12 Cooperative Studies + Y13 Community Member at ",
+      "name": "NEW INC",
+      "url": "https://www.newmuseum.org/person/amy-xiaofan-jiang/"
+    }
+  ],
+  "nowHeading": "What I’m up to now",
+  "nowItems": [
+    {
+      "date": "Oct 22, 2026",
+      "title": "Blue Hour",
+      "url": "https://luma.com/k8gwipwy",
+      "tag": "Community"
+    },
+    {
+      "date": "Oct 18, 2026",
+      "title": "Humanoid: Fall Flat",
+      "url": "#project/humanoid-fall-flat",
+      "tag": "Community"
+    }
+  ],
+  "contact": {
+    "instagram": "https://www.instagram.com/amyjiang517/",
+    "email": "mailto:amyjiang517@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/xiaofan-jiang/"
+  }
+}

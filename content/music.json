@@ -1,0 +1,30 @@
+{
+  "bio": "I have been playing flute since the age of nine, and I incorporate live processing into my sound practice, exploring the tension between ethereal tones and subterranean murmurs. I’m drawn to elemental forces of nature and how sound can make those quieter energies perceptible.",
+  "soundCloudUrl": "https://soundcloud.com/amyjivng",
+  "audioFile": "amy-music-preview.mp3",
+  "shows": [
+    {
+      "date": "Dec 1, 2026",
+      "title": "TBA · Tokyo",
+      "url": "",
+      "status": "Upcoming"
+    },{
+      "date": "Dec 18, 2026",
+      "title": "Synesthesia Array · Tokyo",
+      "url": "",
+      "status": "Upcoming"
+    },
+    {
+      "date": "Oct 22, 2026",
+      "title": "Blue Hour · Reforesters Laboratory, New York",
+      "url": "https://luma.com/k8gwipwy",
+      "status": "Upcoming"
+    },
+    {
+      "date": "Aug 21, 2026",
+      "title": "Hidden City Festival Opening · Hex House, New York",
+      "url": "https://grime-square.com/2026/08/22/hex-house-east-williamsburg-dj-set/",
+      "status": "Past"
+    }
+  ]
+}

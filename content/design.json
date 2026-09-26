@@ -1,0 +1,195 @@
+[
+  {
+    "year": "2022–",
+    "title": "Underground Art And Design",
+    "category": "design",
+    "tag": "Brand",
+    "description": "Founded UAAD as an artist-led platform for experimental work across art, design, and emerging technologies. Its projects span exhibitions, publications, performances, and public programs.",
+    "url": "https://uaad.art",
+    "image": "images/uaad/cover.png",
+    "slug": "underground-art-and-design",
+    "photoCredit": "",
+    "imageAlt": "Project preview photograph",
+    "role": "Founder & Director · Visual Identity and Website Designer",
+    "date": "October 2022 – present",
+    "introduction": "An interdisciplinary platform founded by Amy Xiaofan Jiang to explore experimental art, technology, and social transformation. Its exhibitions, performances, publications, and public programs create space for shared worldbuilding.",
+    "gallery": [
+      {
+        "image": "images/uaad/cover.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      }
+    ],
+    "tags": [
+      "Brand",
+      "Website",
+      "UI/UX"
+    ]
+  },
+  {
+    "year": "2025",
+    "title": "Liminal",
+    "category": "design",
+    "tag": "Brand",
+    "description": "Visual identity and website for a design futures practice.",
+    "slug": "liminal-identity",
+    "url": "",
+    "image": "images/liminal/cover.png",
+    "imageAlt": "Project preview photograph",
+    "photoCredit": "",
+    "role": "Visual Identity and Website Designer",
+    "client": "Liminal",
+    "date": "May 2025",
+    "introduction": "A unified identity and website for Liminal, a practice studying drivers of change and ways to imagine the future. The project brings its visual language and digital experience together as one system.",
+    "program": [],
+    "gallery": [
+      {
+        "image": "images/liminal/gallery/01.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/liminal/gallery/02.gif",
+        "imageAlt": "Brand Guidelines",
+        "photoCredit": ""
+      }
+    ],
+    "tags": [
+      "Brand",
+      "Website",
+      "UI/UX"
+    ]
+  },
+  {
+    "year": "2024",
+    "title": "Emergent PR",
+    "category": "design",
+    "tag": "Brand",
+    "description": "Visual identity and website for a media exposure and brand promotion service.",
+    "slug": "emergent-pr",
+    "url": "",
+    "image": "images/emergentpr/cover.png",
+    "imageAlt": "Project preview photograph",
+    "photoCredit": "",
+    "role": "Visual Identity and Website Designer",
+    "client": "Emergent PR",
+    "date": "December 2024",
+    "introduction": "A unified brand identity and website for Emergent PR, a media exposure and promotion service for independent creators, startups, and businesses. The project connects the visual system with a clear digital path through its offerings.",
+    "program": [],
+    "gallery": [
+      {
+        "image": "images/emergentpr/cover.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/emergentpr/gallery/01.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/emergentpr/gallery/02.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/emergentpr/gallery/03.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/emergentpr/gallery/04.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/emergentpr/gallery/05.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/emergentpr/gallery/06.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/emergentpr/gallery/07.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/emergentpr/gallery/08.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "video": "images/emergentpr/gallery/09.mp4",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      }
+    ],
+    "tags": [
+      "Brand",
+      "Website",
+      "UI/UX"
+    ]
+  },
+  {
+    "year": "2023",
+    "title": "XEV Mascots (IP) Design",
+    "category": "design",
+    "tag": "Brand",
+    "description": "Demon YOYO and the D-Pals bring the XEV YOYO’s customizable personality into a character world.",
+    "slug": "xev-mascots",
+    "url": "",
+    "image": "images/xev-ip/cover.png",
+    "imageAlt": "Project preview photograph",
+    "photoCredit": "",
+    "role": "Character and visual identity designer",
+    "client": "XEV",
+    "date": "December 2023",
+    "introduction": "In this project, I designed Demon YOYO, the official mascot for XEV, taking inspiration from the brand’s iconic electric vehicle YOYO — known for its devilish headlights and customizable side panels. These panels are part of X-pression, XEV’s product line that allows users to 3D-customize both the surface graphics and textures of the door panels. To expand this concept into a character world, I created three companion characters, the D-Pals, each reflecting a different lifestyle and aesthetic. Together, Demon YOYO and the D-Pals embody YOYO’s mischievous personality and highlight the creative freedom of X-pression. The visual identity of the customizable patterns is branded as YOYOTD — a playful twist on “Outfit Of The Day,” emphasizing YOYO’s ability to match its owner’s mood and style.",
+    "program": [],
+    "gallery": [
+      {
+        "image": "images/xev-ip/cover.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/xev-ip/gallery/01.gif",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "title": "XEV Visual Identity Design",
+    "category": "design",
+    "tag": "Brand",
+    "description": "A visual guideline for XEV covering its logo, graphics, typography, and imagery.",
+    "slug": "xev-identity",
+    "url": "",
+    "image": "images/xev-vi/cover.png",
+    "imageAlt": "Project preview photograph",
+    "photoCredit": "",
+    "role": "Visual Identity Designer",
+    "client": "XEV",
+    "date": "May 2023",
+    "introduction": "A visual guideline for XEV, an Italian-Chinese electric vehicle brand, that contains complete design and instructions on the proper use of the logo, graphic, typography and images.",
+    "program": [],
+    "gallery": [
+      {
+        "image": "images/xev-vi/cover.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/xev-vi/gallery/01.gif",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      }
+    ]
+  }
+]

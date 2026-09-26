@@ -1,0 +1,138 @@
+{
+  "introduction": "Amy Xiaofan Jiang’s design and production practice integrates worldbuilding, market and design-led research, and participatory methods to turn complex ideas into visual systems and shared cultural experiences. She offers brand and visual identity design, product and digital experience design, curatorial strategy, and event production. Working with artists, institutions, and brands, she develops concepts, shapes narratives, builds partnerships, and carries projects from early research through launch and live presentation.",
+  "sections": [
+    {
+      "title": "Professional Experience",
+      "items": [
+        {
+          "date": "Sep 2025 – present",
+          "title": "NEW INC, New Museum’s Cultural Incubator",
+          "role": "Year 12 Cooperative Studies Track Member + Y13 Community Member",
+          "place": "New York"
+        },
+        {
+          "date": "Oct 2022 – present",
+          "title": "Underground Art And Design",
+          "role": "Founder & Director. Founded an interdisciplinary platform for experimental art, technology, and social transformation.",
+          "place": "New York"
+        },
+        {
+          "date": "Mar 2023 – present",
+          "title": "AAAAH Culture",
+          "role": "Co-Founder & Creative Designer. Curated four public programs supporting emerging Asian creators.",
+          "place": "New York"
+        },
+        {
+          "date": "Mar – Jul 2022",
+          "title": "3x3",
+          "role": "Bilingual Engagement Designer, New York State Downtown Revitalization Initiative. Facilitated multilingual public meetings and translated outreach materials.",
+          "place": "New York"
+        },
+        {
+          "date": "Mar – Jun 2022",
+          "title": "Parsons School of Design",
+          "role": "User Experience Research Assistant, Allgrade Project. Participatory research, prototypes, and visual communication.",
+          "place": "New York"
+        }
+      ]
+    },{
+      "title": "Talks & Lectures",
+      "items": [
+        {
+          "date": "Jul 11, 2026",
+          "title": "Creator’s Huggle + Meet & Greet, Processing Community Day Taiwan",
+          "role": "Keynote Speaker",
+          "place": "Online"
+        },
+        {
+          "date": "Jun 6, 2026",
+          "title": "Shared Worlds, NEW INC DEMO Festival satellite event",
+          "role": "Keynote Speaker",
+          "place": "Metalabel Studio, New York"
+        },
+        {
+          "date": "May 30, 2026",
+          "title": "DVAA Future/Think: Synthetic Narratives",
+          "role": "Keynote Speaker and Panelist",
+          "place": "Delaware Valley Arts Alliance, Narrowsburg, New York"
+        },
+        {
+          "date": "Feb 19, 2026",
+          "title": "NEW INC Member Public Workshare",
+          "role": "Keynote Speaker and Panelist",
+          "place": "NEW INC office, New York"
+        },
+        {
+          "date": "Nov 1, 2025",
+          "title": "Artiver AI Art Awards 2025",
+          "role": "Keynote Speaker",
+          "place": "The Blanc, New York"
+        },
+        {
+          "date": "Sep - Nov, 2025",
+          "title": "Speculative Design and Worldbuilding",
+          "role": "Guest Lecturer",
+          "place": "Hubei Institute of Fine Arts, China (Online)"
+        }
+      ]
+    },
+    {
+      "title": "Guest Critic",
+      "items": [
+        {
+          "date": "May 2026",
+          "title": "ITP Capstones",
+          "role": "New York University",
+          "place": ""
+        },
+        {
+          "date": "May 2026",
+          "title": "Design and Technology Capstones",
+          "role": "Parsons School of Design, The New School",
+          "place": ""
+        },
+        {
+          "date": "May 2026",
+          "title": "Communication Design Capstones",
+          "role": "Pratt Institute",
+          "place": ""
+        },
+        {
+          "date": "Dec 2025",
+          "title": "ITP Capstones",
+          "role": "New York University",
+          "place": ""
+        },
+        {
+          "date": "Mar 2021",
+          "title": "Strategic Design and Management Capstones",
+          "role": "Parsons School of Design, The New School",
+          "place": ""
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "items": [
+        {
+          "date": "2020 – 2022",
+          "title": "Parsons School of Design, The New School",
+          "role": "MFA, Transdisciplinary Design (STEM)",
+          "place": "New York"
+        },
+        {
+          "date": "2016 – 2020",
+          "title": "Donghua University",
+          "role": "BE, Industrial Design",
+          "place": "Shanghai"
+        },
+        {
+          "date": "2018 – 2019",
+          "title": "Tongji University + Aalto University",
+          "role": "Minor, Tongji-Aaltonaut Product Innovation Development",
+          "place": "Shanghai"
+        }
+      ]
+    }
+  ]
+}
