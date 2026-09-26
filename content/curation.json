@@ -122,6 +122,11 @@
     "photoCredit": "June 13, 2026 · Brooklyn Art Haus, New York",
     "gallery": [
       {
+        "video": "images/adrift/gallery/012.mp4",
+        "imageAlt": "",
+        "photoCredit": ""
+      },
+      {
         "image": "images/adrift/gallery/01.jpg",
         "imageAlt": "",
         "photoCredit": ""
@@ -173,11 +178,6 @@
       },
       {
         "image": "images/adrift/gallery/011.jpg",
-        "imageAlt": "",
-        "photoCredit": ""
-      },
-      {
-        "image": "images/adrift/gallery/012.jpg",
         "imageAlt": "",
         "photoCredit": ""
       }
@@ -564,6 +564,26 @@
     "gallery": [
       {
         "image": "images/mirage-online/cover.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/mirage-online/gallery/01.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/mirage-online/gallery/02.jpg",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/mirage-online/gallery/03.jpg",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/mirage-online/gallery/04.png",
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       }
@@ -1290,7 +1310,7 @@
     "photoCredit": "March 23, 2023 – present · New Art City (virtual)",
     "gallery": [
       {
-        "video": "images/ties/gallery/01.m4v",
+        "video": "images/ties/gallery/01.mov",
         "imageAlt": "Trailer",
         "photoCredit": ""
       },

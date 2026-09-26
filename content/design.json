@@ -25,6 +25,51 @@
       "Website",
       "UI/UX"
     ]
+  },{
+    "year": "2026",
+    "title": "Hold/Unfold 3D-Printed Folding Fan (UAAD Merch)",
+    "category": "design",
+    "tag": "Product",
+    "description": "Designed a UAAD merch product for the NEW INC Demo Festival: a 3D-printed folding fan that embodies connection and collectivity through gesture and proximity.",
+    "url": "https://newinc.metalabel.com/unfold?retryCount=1&variantId=1",
+    "image": "images/hold/cover.png",
+    "slug": "hold-unfold",
+    "photoCredit": "June 2026 · NEW INC Demo Festival",
+    "imageAlt": "Project preview photograph",
+    "role": "Product Designer",
+    "date": "June 2026",
+    "introduction": "Hold/Unfold is a portable gesture of connection and collectivity made for embodied spaces: the underground dance floor, the heat of a summer gathering, anywhere gesture and proximity shape experience. Each blade an abstract body: folded, a single figure; opened, a chain of interlinked forms in embrace, circling a shared center.",
+    "gallery": [
+      {
+        "image": "images/hold/gallery/01.png",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/hold/gallery/02.gif",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/hold/gallery/03.jpg",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/hold/gallery/04.jpg",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      },
+      {
+        "image": "images/hold/gallery/05.gif",
+        "imageAlt": "Project preview photograph",
+        "photoCredit": ""
+      }
+    ],
+    "tags": [
+      "Brand",
+      "Product"
+    ]
   },
   {
     "year": "2025",
