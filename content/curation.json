@@ -1203,82 +1203,82 @@
       "Virtual exhibition"
     ],
     "url": "https://newart.city/show/alt-alterity-anchor",
-    "image": "images/alt/cover.jpg",
+    "image": "images/alterity/cover.jpg",
     "imageAlt": "Project preview photograph",
     "photoCredit": "Dec 16, 2023 – present · New Art City (virtual)",
     "gallery": [
       {
-        "video": "images/alt/gallery/1.mp4",
+        "video": "images/alterity/gallery/1.mp4",
         "imageAlt": "Trailer",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/01.webp",
+        "image": "images/alterity/gallery/webp/01.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/02.webp",
+        "image": "images/alterity/gallery/webp/02.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/03.webp",
+        "image": "images/alterity/gallery/webp/03.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/04.webp",
+        "image": "images/alterity/gallery/webp/04.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/05.webp",
+        "image": "images/alterity/gallery/webp/05.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/06.webp",
+        "image": "images/alterity/gallery/webp/06.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/07.webp",
+        "image": "images/alterity/gallery/webp/07.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/08.webp",
+        "image": "images/alterity/gallery/webp/08.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/09.webp",
+        "image": "images/alterity/gallery/webp/09.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/010.webp",
+        "image": "images/alterity/gallery/webp/010.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/011.webp",
+        "image": "images/alterity/gallery/webp/011.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/012.webp",
+        "image": "images/alterity/gallery/webp/012.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/013.webp",
+        "image": "images/alterity/gallery/webp/013.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       },
       {
-        "image": "images/alt/gallery/webp/014.webp",
+        "image": "images/alterity/gallery/webp/014.webp",
         "imageAlt": "Virtual Exhibition Screenshot",
         "photoCredit": ""
       }
