@@ -13,7 +13,7 @@
     "role": "Curatoror · Production Lead · Program Design · Visual Design · Marketing & PR",
     "venue": "Mesh Art Center, Brooklyn, New York",
     "date": "August 2, 2026",
-    "introduction": "Presented by MESH_ARTS and UAAD, (Dis)consent brought performances, interactive installations, and live generative media into dialogue. Visitors could command bodies, contribute data, alter generated images, and participate in speculative ecological systems. The program asked whether refusal, withdrawal, and renegotiation remain possible once we are already embedded in a system.",
+    "introduction": "Through performance, interactive installations, and live generative media, (Dis)consent explores how consent, in an age of algorithms and ecological crisis, is assumed, negotiated, withdrawn, and manipulated in real time. Audiences are invited to command bodies, contribute data, reshape algorithmically generated images, and participate in speculative ecological systems.<br><br>Consent is often imagined as a clear agreement between autonomous individuals: an informed \"yes\" that authorizes participation and a \"no\" that withdraws it. Yet contemporary life increasingly unfolds within systems where agency is distributed across algorithms, interfaces, institutions, infrastructures, and ecological networks. Within these environments, consent rarely appears as a stable agreement. Instead, it is continuously assumed, negotiated, deferred, or manipulated in real time.<br><br>The works featured in (Dis)consent make these tensions visible where agency is distributed among audiences, performers, machines, and environments. As participation unfolds, the question is no longer whether consent has been given, but whether disconsent remains available.",
     "program": [
       "7:30 pm · Doors and interactive installations",
       "8:00 pm · Welcome and opening remarks",
@@ -207,7 +207,7 @@
     "role": "Curatorial & Production Lead · Program Design · Visual Design · Marketing & PR",
     "venue": "The Blanc",
     "date": "May 8–9, 2026",
-    "introduction": "Presented by UAAD at The Blanc, Attention // Distraction examined the forces that direct our attention and the things left outside the frame. Interactive installations, net art, XR, artist-made games, algorithmic systems, live performance, and talks treated distraction as a tool for refusal, interference, and subversion.",
+    "introduction": "We live in a moment of unprecedented competition for attention in a world shaped by ever-growing crises and conflicts.<br><br>Wars and colonization unfold across multiple regions. Political scandals emerge only to be quickly forgotten. Technological power concentrates in the hands of corporations and technocratic institutions. And with the rise of artificial intelligence and the attention economy, our attention has been further commodified and exploited through information that is exaggerated, fabricated, or manufactured.<br><br>We are physically present in the world, yet simultaneously networked to multiple elsewheres. Our perception is shaped not only by what we choose to look at, but also by the technological infrastructures, media platforms, and ideological powers that direct our gaze.<br><br>Before we pay attention to something, we need to examine: what gravitational forces are redirecting our attention, and from what? When our vision turns toward a certain orientation, what falls outside the frame?<br><br>Artists have long intervened in these dynamics by reshaping how we look, notice, and interpret the world. This exhibition brings together interactive installations, net art, XR, artist-made games, algorithmic system, live performance and artist talks, exploring distraction as a strategy for commanding attention in the mode of refusal, interference, and subversion.",
     "program": [
       "May 8 · Exhibition, 4–10 pm; talks and performances, 7–9 pm",
       "May 9 · Exhibition, 11 am–5 pm"
@@ -553,7 +553,7 @@
     "slug": "technomirage-parsons",
     "photoCredit": "November 4, 2025 · Online · Parsons School of Design",
     "imageAlt": "Project preview photograph",
-    "role": "Co-Organizer and Co-Host",
+    "role": "Co-Organizer, Curator, and Co-Facilitator",
     "venue": "Online · Parsons School of Design",
     "date": "November 4, 2025",
     "introduction": "Presented by UAAD and Parsons School of Design Strategies, this online edition of TechnoMirage brought artists, designers, and technologists into a conversation about creative AI. Panelists discussed authorship, ethics, access, and how AI reshapes collaboration and creative labor.",
@@ -587,7 +587,6 @@
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       }
-
     ],
     "participants": [
       {
@@ -614,7 +613,7 @@
     "role": "Co-Organizer",
     "venue": "Index NYC",
     "date": "September 21, 2025",
-    "introduction": "Co-organized by UAAD and Liminal at Index NYC, TechnoMirage asked what stories AI erases and how artists might reclaim them. The gathering brought panel discussion, a workshop, installations, and performance into a shared inquiry about speculative futures and creative agency.",
+    "introduction": "How are creatives in NYC reclaiming, reimagining, and rewiring AI futures?<br><br>TechnoMirage is a half-day creative gathering exploring AI and speculative futures as tools for reclaiming, reimagining and making together. Across an afternoon of panel, workshop, installation and performance, we’ll ask: What stories does AI erase–and which ones can we reclaim? How can we turn the gap between promised tomorrows and lived realities into fertile ground for new visions?<br><br>The afternoon unfolds in three acts:<br><br>• RECLAIM: An artist panel featuring Carrie Wang, Luca Lee, and Munus Shih, who challenge extractive AI narratives and reclaim the technology as a tool for resistance, care, and agency;<br><br>• REIMAGINE: A speculative workshop led by Liminal, where we’ll explore how creatives might live, work, and relate to AI in the future–centering critical imagination, plurality, and collective visioning;<br><br>• REWIRE: A live sonic performance by Mason Youngblood, weaving together archival recordings with interacting artificial agents to evoke echoes of vanished voices in a speculative soundscape. And throughout the afternoon: Octologue by Interactive Items – eight AI-augmented figures, continuously present as living philosophical voices, from stoicism to mysticism, debating and reimagining human wisdom in real time.<br><br>Together, these sessions open a rare space to not just talk about AI’s futures, but to hear them, shape them, and step inside them.",
     "program": [
       "Panel discussion",
       "Workshop",
@@ -671,7 +670,6 @@
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
-      
       {
         "video": "images/mirage-nyc/gallery/011.mp4",
         "imageAlt": "Project preview photograph",
@@ -733,7 +731,6 @@
         "imageAlt": "",
         "photoCredit": ""
       },
-      
       {
         "image": "images/nodes/gallery/webp/04.webp",
         "imageAlt": "",
@@ -941,7 +938,6 @@
       "Panel discussion with students, faculty, and the public"
     ],
     "gallery": [
-      
       {
         "image": "images/reconfig/gallery/webp/01.webp",
         "imageAlt": "Project preview photograph",
@@ -1013,7 +1009,6 @@
     "imageAlt": "Project preview photograph",
     "photoCredit": "October 19–20, 2024 · G Gallery, New York / Virtual",
     "gallery": [
-      
       {
         "image": "images/jukebox/gallery/webp/02.webp",
         "imageAlt": "Project preview photograph",
@@ -1089,7 +1084,6 @@
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
-      
       {
         "image": "images/jukebox/gallery/webp/018.webp",
         "imageAlt": "Project preview photograph",
@@ -1105,7 +1099,6 @@
         "imageAlt": "Project preview photograph",
         "photoCredit": ""
       },
-      
       {
         "image": "images/jukebox/gallery/webp/022.webp",
         "imageAlt": "Project preview photograph",
@@ -1161,7 +1154,7 @@
     "role": "Curatorial & Production Lead · Editor · 3D Design · Marketing & PR",
     "venue": "UAAD website",
     "date": "June 15, 2024",
-    "introduction": "An interactive publication featuring 19 artist groups. Inspired by the rhizome, Matrix of the Not-Yet replaces a linear reading path with a decentralized network of visions for possible futures.",
+    "introduction": "Drawing inspiration from Deleuze and Guattari‘s concept of the rhizome, the ”Matrix of the Not-Yet“ resists traditional hierarchical models, opting for a decentralized, non-linear web of visions for the future. We featured 20 groups of artists, sharing their thoughts, ideas, and works. Our editorial project promotes a mapping practice that captures the fluid potentialities of spaces and ideas, envisioning ”worlds-to-come“ within various social, technological, cultural, and ecological intersections.",
     "program": [
       "Interactive web-based exhibition"
     ],
@@ -1188,7 +1181,7 @@
       }
     ]
   },
-    {
+  {
     "slug": "alt-alterity",
     "title": "Alt-Alterity",
     "year": "2023–",
